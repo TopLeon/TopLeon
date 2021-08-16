@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TopLeon
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning python, java and C#
+- 🌱 I’m currently learning python, java and C++
