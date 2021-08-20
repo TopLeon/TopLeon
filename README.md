@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TopLeon
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning python, java and C++
-- And remember... :octopus: :heavy_plus_sign: :cat2: = :octocat:
+- 🌱 I’m currently learning python, java and C++<br><br>
+- :arrow_right: And remember... :octopus: :heavy_plus_sign: :cat2: = :octocat:
