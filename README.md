@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TopLeon
-- 👀 I’m interested in nothing
+- 👀 I’m interested in everything related to technology
 - 🌱 I’m currently learning python, java and C++<br><br>
