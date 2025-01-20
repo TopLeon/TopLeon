@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TopLeon
 - 👀 I’m interested in everything related to technology
-- 🌱 I’m currently learning python, java and C++<br><br>
-- 👾 I love haccing 🤘
+- 🌱 I’m currently learning python, java and C++
+- 🎮 I love playing video games<br><br>
+- 👾 And, of course, I love haccing 🤘
